@@ -4,14 +4,12 @@
 A comprehensive Power BI & Excel project transforming raw e-commerce data (1M+ rows across 7 tables) into actionable business insights, tracking sales profitability, inventory turnover, and web conversion funnels[cite: 1, 4, 5, 9, 10, 11, 12].
 
 * **Domain:** E-Commerce & Supply Chain Operations
-* **Target:** E-Commerce Managers & Marketing Teams
 
 ---
 
 ### 🎬 Live Video Demonstration
 
-[![WATCH PROJECT DEMO]([https://img.shields.io/badge/WATCH_PROJECT_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://youtu.be/zDgt921UFSU?si=0FG7qeVt0e_4pxpw))](#)
-
+[![WATCH PROJECT DEMO](https://img.shields.io/badge/WATCH_PROJECT_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/zDgt921UFSU?si=0FG7qeVt0e_4pxpw)
 * 📌 **Project Walkthrough:** A comprehensive video explaining the data pipeline, DAX measures, and interactive report functionality.
 
 ---
