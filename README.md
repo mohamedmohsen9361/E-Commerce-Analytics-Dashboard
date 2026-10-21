@@ -43,14 +43,15 @@ A comprehensive Power BI & Excel project transforming raw e-commerce data (1M+ r
 
 ### 🖼️ Dashboard Screenshots
 
-#### 1. Executive Overview & Sales
-![Executive Overview](./assets/executive-overview.png)
+<img width="1867" height="954" alt="Screenshot 2026-10-21 181301" src="https://github.com/user-attachments/assets/a6cd629b-ef4f-422c-8654-7c38096ccb6c" />
 
-#### 2. Customer & Traffic Analytics
-![Customer Analytics](./assets/customer-analytics.png)
+<img width="1863" height="954" alt="Screenshot 2026-10-21 175604" src="https://github.com/user-attachments/assets/239f1f77-a4f5-4178-ba1c-21d0a51094f5" />
 
-#### 3. Product & Inventory Performance
-![Product Performance](./assets/product-inventory.png)
+<img width="1861" height="951" alt="Screenshot 2026-10-21 175706" src="https://github.com/user-attachments/assets/18e4043e-2c6f-41d2-b810-fab4d27f357f" />
 
-#### 4. Web Analytics & Conversion Funnel
-![Web Analytics](./assets/web-analytics.png)
+<img width="1861" height="940" alt="Screenshot 2026-10-21 175725" src="https://github.com/user-attachments/assets/c7666d99-ee94-40a2-a434-27e0349ca704" />
+
+<img width="1864" height="951" alt="Screenshot 2026-10-21 175744" src="https://github.com/user-attachments/assets/76b0b90d-4c57-49e9-a8f6-06f616d5202b" />
+
+
+
