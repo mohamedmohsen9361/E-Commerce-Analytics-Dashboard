@@ -1,7 +1,7 @@
 # E-Commerce-Analytics-Dashboard
 # 📝 Overview
 
-A comprehensive Power BI & Excel project transforming raw e-commerce data (1M+ rows across 7 tables) into actionable business insights, tracking sales profitability, inventory turnover, and web conversion funnels[cite: 1, 4, 5, 9, 10, 11, 12].
+A comprehensive Excel project transforming raw e-commerce data (1M+ rows across 7 tables) into actionable business insights, tracking sales profitability, inventory turnover, and web conversion funnels[cite: 1, 4, 5, 9, 10, 11, 12].
 
 * **Domain:** E-Commerce & Supply Chain Operations
 
